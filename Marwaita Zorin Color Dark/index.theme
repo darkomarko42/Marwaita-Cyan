@@ -1,12 +1,12 @@
-[Desktop ]
+[Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Marwaita Zorin Color Dark
+Name=Marwaita Color Dark
 Comment=GTK Theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Marwaita Zorin Color Dark
-MetacityTheme=Marwaita Zorin Color Dark
+GtkTheme=Marwaita Color Dark
+MetacityTheme=Marwaita Color Dark
 IconTheme=Luna-Dark
 CursorTheme=Luna
 CursorSize=24
