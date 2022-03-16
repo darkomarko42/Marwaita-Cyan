@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Marwaita Color Dark Zorin
 MetacityTheme=Marwaita Color Dark Zorin
-IconTheme=Luna-Light
+IconTheme=Luna-Dark
 CursorTheme=Luna
 CursorSize=24
