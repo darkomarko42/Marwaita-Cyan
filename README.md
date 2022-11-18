@@ -1,4 +1,4 @@
-# Marwaita Zorin
+# Marwaita
 GTK theme for Cinnamon desktop
 
 ## Requirments
