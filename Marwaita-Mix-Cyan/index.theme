@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Marwaita-Mix-Cyan
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Marwaita-Mix-Cyan
+MetacityTheme=Marwaita-Mix-Cyan
+IconTheme=Marwaita
+CursorTheme=Marwaita
+CursorSize=24
